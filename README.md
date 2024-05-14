@@ -37,4 +37,4 @@ Contribuições são o que fazem pessoas evoluirem e incentivam a melhorar, insp
 ---
 ## Contato
 
-Feito com ♥ by Sávio de Paula - [Github](thub.com/savio-fju) - **saviofju@gmail.com**
+Feito com ♥ Sávio de Paula - [Github](thub.com/savio-fju) - **saviofju@gmail.com**
